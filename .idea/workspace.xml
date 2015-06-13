@@ -7,7 +7,7 @@
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/inspection/Default.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/clion10/inspection/Default.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Blog/.idea/runConfigurations/Development__Blog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FoodCompDB/.idea/FoodCompDB.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/FoodCompDB/.idea/FoodCompDB.iml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/IntelliLang.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/Git Repository/s-match-web/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_sources_2_3_3.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/Git Repository/s-match-web/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_3.xml" />
@@ -26,10 +26,9 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/Git Repository/s-match-web/.idea/libraries/Maven__org_springframework_spring_web_4_1_1_RELEASE.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/Git Repository/s-match-web/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_1_RELEASE.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Blog/.idea/runConfigurations/Production__Blog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RubyMongoDBScript/lib/tasks/Script.rake" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/RubyMongoDBScript/lib/tasks/Script.rake" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/Git Repository/Test/src/This.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/Git Repository/Test/src/ThisTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb.html" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/clion10/options/code.style.schemes.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Blog/.idea/dataSources.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/IntelliJIdea14/options/databaseDrivers.xml" />
@@ -50,9 +49,9 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/IntelliJIdea14/options/javaeeAppServers.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/jdk.table.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Blog/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FoodCompDB/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/FoodCompDB/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Blog/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FoodCompDB/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/FoodCompDB/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/recentProjectDirectories.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/clion10/options/recentProjectDirectories.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/rubysettings.xml" />
@@ -65,7 +64,7 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Blog/.idea/runConfigurations/spec__Blog.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Blog/.idea/runConfigurations/test__Blog.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Blog/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FoodCompDB/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/FoodCompDB/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/clion10/options/web-browsers.xml" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/clion10/options/window.manager.xml" />
@@ -82,7 +81,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/RubyOnRails@Development__RubyOnRails.coverage" NAME="Development: RubyOnRails Coverage Results" MODIFIED="1434209054466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyOnRails" />
+    <SUITE FILE_PATH="coverage/RubyOnRails@Development__RubyOnRails.coverage" NAME="Development: RubyOnRails Coverage Results" MODIFIED="1434209054466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/RubyOnRails" MODULE_NAME="RubyOnRails" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -94,7 +93,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+        <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -104,7 +103,7 @@
         </entry>
       </file>
       <file leaf-file-name="aaa_core_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/aaa_core_controller.rb">
+        <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/app/controllers/aaa_core_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -114,7 +113,7 @@
         </entry>
       </file>
       <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+        <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
@@ -124,7 +123,7 @@
         </entry>
       </file>
       <file leaf-file-name="aaa_core_helper.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/aaa_core_helper.rb">
+        <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/app/helpers/aaa_core_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -134,7 +133,7 @@
         </entry>
       </file>
       <file leaf-file-name="application_helper.rb.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb.html">
+        <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/app/helpers/application_helper.rb.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.3488372">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
@@ -144,7 +143,7 @@
         </entry>
       </file>
       <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+        <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -154,7 +153,7 @@
         </entry>
       </file>
       <file leaf-file-name="database.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
+        <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -164,7 +163,7 @@
         </entry>
       </file>
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+        <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
@@ -188,15 +187,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/places_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/places/video.html" />
-        <option value="$PROJECT_DIR$/app/views/places/radio.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/places/video.html.erb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb.html" />
+        <option value="$USER_HOME$/RubymineProjects/RubyOnRails/app/controllers/application_controller.rb" />
+        <option value="$USER_HOME$/RubymineProjects/RubyOnRails/app/controllers/places_controller.rb" />
+        <option value="$USER_HOME$/RubymineProjects/RubyOnRails/app/views/places/video.html" />
+        <option value="$USER_HOME$/RubymineProjects/RubyOnRails/app/views/places/radio.html.erb" />
+        <option value="$USER_HOME$/RubymineProjects/RubyOnRails/app/views/places/video.html.erb" />
+        <option value="$USER_HOME$/RubymineProjects/RubyOnRails/config/routes.rb" />
+        <option value="$USER_HOME$/RubymineProjects/RubyOnRails/app/views/layouts/application.html.erb" />
+        <option value="$USER_HOME$/RubymineProjects/RubyOnRails/app/helpers/application_helper.rb" />
+        <option value="$USER_HOME$/RubymineProjects/RubyOnRails/app/helpers/application_helper.rb.html" />
       </list>
     </option>
   </component>
@@ -252,14 +251,8 @@
               <option name="myItemId" value="RubyOnRails" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="RubyOnRails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RubyOnRails" />
+              <option name="myItemId" value="RubyonRails_WebApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -269,7 +262,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="RubyOnRails" />
+              <option name="myItemId" value="RubyonRails_WebApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -283,7 +276,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="RubyOnRails" />
+              <option name="myItemId" value="RubyonRails_WebApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -305,7 +298,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="RubyOnRails" />
+              <option name="myItemId" value="RubyonRails_WebApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -327,7 +320,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="RubyOnRails" />
+              <option name="myItemId" value="RubyonRails_WebApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -341,7 +334,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="RubyOnRails" />
+              <option name="myItemId" value="RubyonRails_WebApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -359,7 +352,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="RubyOnRails" />
+              <option name="myItemId" value="RubyonRails_WebApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -377,7 +370,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="RubyOnRails" />
+              <option name="myItemId" value="RubyonRails_WebApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -475,7 +468,7 @@
       <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
       <module name="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../RubyOnRails" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -576,7 +569,7 @@
       <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
       <module name="RubyOnRails" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../RubyOnRails" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -603,7 +596,7 @@
       <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
       <module name="RubyOnRails" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../RubyOnRails" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -728,7 +721,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
+    <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -736,7 +729,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
@@ -744,7 +737,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+    <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -752,7 +745,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/aaa_core_controller.rb">
+    <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/app/controllers/aaa_core_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -760,7 +753,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
@@ -768,7 +761,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/aaa_core_helper.rb">
+    <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/app/helpers/aaa_core_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -776,7 +769,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+    <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -784,7 +777,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb.html">
+    <entry file="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/app/helpers/application_helper.rb.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3488372">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/RubyOnRails.iml" filepath="$PROJECT_DIR$/.idea/RubyOnRails.iml" />
+      <module fileurl="file://$USER_HOME$/RubymineProjects/RubyonRails_WebApp/.idea/RubyOnRails.iml" filepath="$USER_HOME$/RubymineProjects/RubyonRails_WebApp/.idea/RubyOnRails.iml" />
     </modules>
   </component>
 </project>
