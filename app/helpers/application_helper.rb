@@ -2,10 +2,9 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>AAA-webpage</title>
-
+    <title></title>
 </head>
 <body>
-<%= yield %>
+
 </body>
 </html>
