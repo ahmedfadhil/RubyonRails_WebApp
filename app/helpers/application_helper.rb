@@ -1,10 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <title></title>
-</head>
-<body>
+module ApplicationHelper
+  #Return a title on a per-page basis.
+  def title
+      base_title = "Ashtead Allotments Association"
+    if @title.nil?
+        base_title
+    else
+      "#{base_title}|#{@title}"
 
-</body>
-</html>
+    end
+  end
+end

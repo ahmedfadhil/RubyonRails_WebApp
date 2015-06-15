@@ -1,11 +1,11 @@
 Rails.application.routes.draw do
-  get 'aaa_core/index'
+  match "/index"=>"aaa_core#index", via: :get
 
-  get 'aaa_core/events'
+  match "/events"=>"aaa_core#events", via: :get
 
-  get 'aaa_core/shop'
+  match "/shop"=>"aaa_core#shop", via: :get
 
-  get 'aaa_core/discussion'
+  match "/discussion"=>"aaa_core#discussion", via: :get
 
 
   # You can have the root of your site routed with "root"
